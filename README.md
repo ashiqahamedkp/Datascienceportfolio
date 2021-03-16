@@ -26,6 +26,4 @@ A model to predict the value of a given house in the Boston real estate market u
   - Eye detection on live webcam:
   (https://github.com/ashiqahamedkp/facedetectionusingwebcam/blob/master/eyedetection.py)
   
-  - Unsupervised Learning: Creating Customer Segments:
-  (https://github.com/ashiqahamedkp/facedetectionusingwebcam/blob/master/eyedetection.py)
-  
+
