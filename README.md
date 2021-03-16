@@ -5,6 +5,10 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
+- ### Machine Learning Projects
+	- [Predicting Boston Housing Prices:] 
+A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning. 	
+
 - ### Machine Learning Micro Projects
 
 	- [Machine Learning with Linear Regression:]
