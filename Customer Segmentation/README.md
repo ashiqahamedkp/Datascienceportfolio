@@ -1,4 +1,4 @@
-# Customer-Segmentation-in-Python3
+# Customer-Segmentation using data of Online Retail Customers based in United Kingdom.
 
 #### The most successful companies today are the ones that know their customers so well that they can anticipate their needs. Data analysts play a key role in unlocking these in-depth insights, and segmenting the customers to better serve them.
 
